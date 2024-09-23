@@ -1,4 +1,4 @@
 # Nova-demo
 this is my first repository
 <br>
-Author=Iftekhar Pathan
+Author=Iftekhar harun Pathan
